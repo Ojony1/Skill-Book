@@ -1,0 +1,24 @@
+.mainContent{
+        width: 100%;
+    text-align: center;
+}
+.boosterImg{
+    width: 100%;
+}
+.boosterImg img{
+    width: 100%;
+}
+.links{
+        text-align: center;
+    list-style: none;
+}
+.header .container .header-container{
+    text-align: center;
+}
+.img{
+    width: 50%;
+    margin: auto;
+}
+.img img{
+    width: 100%;
+}
